@@ -67,8 +67,8 @@ Enables optimization of packages.
 `Package 3`: Ksh 10,000 paid monthly for 5 sessions a week.<br>
 `Package 4`: Ksh 4,000 paid weely for 5 sessions.<br>
 
-# **Findings**
-## Package Performance
+## **Findings**
+### Package Performance
 - There is overreliance on walk-in sessions, which is unreliable because walk-in clients are not members.
 - Package 4 performs the best out of all the packages offered.
 - Package 3 is also quite popular.

@@ -6,7 +6,7 @@ Data analytics is growing and enabling businesses in all sectors to be more effi
 Our project aims to leverage a business intelligence solution that would enable Home of Sweat to achieve and monitor both short-term and long-term goals. Through analytics and data driven decision making, the gym can maximize income, meet customer preferences and ensure operational efficiency.<br>
 
 ## Assessment results
-Assessing the studio yielded that there were gaps in the following areas:
+The assessment our team conducted of the studio yielded that there were gaps in the following areas:
 * Data collection:  The amount of data collected is minimal, and does not aid current processes. For example, attendance records which only contain customers’ first names.
 * Data collection process: Data collection is manual, leading to unnecessary repetition and unavailability. For example, older records are unavailable, with attendance records containing only data from September 2024 to date.
 * Data storage: Data is stored in books kept in cabinets. This is an insecure way to store personal information such as members’ records and financial documents

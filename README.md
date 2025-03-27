@@ -1,11 +1,6 @@
 # **Business Intelligence (BI) Solution for Fitness Center**
 ## **Project Overview**
-This project focuses on implementing a Business Intelligence (BI) solution for a growing gym and fitness centre in Nairobi, Kenya that previously relied on paper-based data management. The BI system aims to streamline operations, enhance data-driven decision-making, and optimize financial performance.
-
-## **Industry Overview**
-The fitness industry is evolving with data-driven strategies to improve customer engagement and operational efficiency. Many small and medium-sized gyms still rely on manual data tracking, limiting their ability to analyze trends, manage memberships, and maximize revenue.
-
-This particular gym was selected due to its growth potential and operational challenges. The gym collects data manually, lacks structured membership packages, and attracts a mix of fitness enthusiasts and professional dancers. A BI solution will help the gym standardize pricing, track performance, and improve customer retention.
+This project focuses on implementing a Business Intelligence (BI) solution for a growing gym and fitness centre in Nairobi, Kenya that previously relied on paper-based data management. As the fitness industry is evolving with data-driven strategies to improve customer engagement and operational efficiency, many small and medium-sized gyms still rely on manual data tracking, limiting their ability to analyze trends, manage memberships, and maximize revenue. The BI system aims to streamline operations, enhance data-driven decision-making, and optimize financial performance.
 
 ## **Project Scope**
 The BI solution includes data collection, analysis, and visualization of key business metrics such as membership trends, attendance rates, revenue tracking, and energy consumption. The system is designed to scale with the gym’s expansion.

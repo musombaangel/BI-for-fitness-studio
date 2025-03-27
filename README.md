@@ -60,7 +60,7 @@ Enables tracking and management of electricity use and/or wastage.
 Breaks down package popularity and performance.
 Enables optimization of packages.
 
-#### Breakdown of packages
+Package details are as follows.
 `Package 0`: Walk-ins. Clients in this category are not subscribed to any package and pay a flat fee of Ksh 1000 on a walk-in bases.<br>
 `Package 1`: Ksh 3000 paid weekly for 4 sessions.<br>
 `Package 2`: Ksh 4500 paid bi-weekly for 3 sessions a week.<br>

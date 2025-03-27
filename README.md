@@ -5,8 +5,7 @@ This project focuses on implementing a Business Intelligence (BI) solution for a
 ## **Industry Overview**
 The fitness industry is evolving with data-driven strategies to improve customer engagement and operational efficiency. Many small and medium-sized gyms still rely on manual data tracking, limiting their ability to analyze trends, manage memberships, and maximize revenue.
 
-## **Selection of SME**
-Home of Sweats was selected due to its growth potential and operational challenges. The gym collects data manually, lacks structured membership packages, and attracts a mix of fitness enthusiasts and professional dancers. A BI solution will help the gym standardize pricing, track performance, and improve customer retention.
+This particular gym was selected due to its growth potential and operational challenges. The gym collects data manually, lacks structured membership packages, and attracts a mix of fitness enthusiasts and professional dancers. A BI solution will help the gym standardize pricing, track performance, and improve customer retention.
 
 ## **Project Scope**
 The BI solution includes data collection, analysis, and visualization of key business metrics such as membership trends, attendance rates, revenue tracking, and energy consumption. The system is designed to scale with the gym’s expansion.
@@ -88,4 +87,4 @@ Package details are as follows.
 - **Electricity Monitoring Challenges** – Gathering reliable electricity usage data was difficult due to lack of existing tracking systems.
 
 ## **Conclusion**
-Implementing a BI solution for Home of Sweats provided actionable insights that enhanced operational efficiency, improved revenue tracking, and optimized resource allocation. The dashboard empowers management with real-time analytics, positioning the gym for sustainable growth.
+Implementing a BI solution for the fitness centre provided actionable insights that enhanced operational efficiency, improved revenue tracking, and optimized resource allocation. The dashboard empowers management with real-time analytics, positioning the gym for sustainable growth.

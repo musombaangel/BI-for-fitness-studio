@@ -15,10 +15,8 @@ The assessment our team conducted of the studio yielded that there were gaps in 
 * Packages: Packages are not officially documented and there is no analysis on their popularity. The staff are often unaware of what packages various customers are on, leading to issues with tracking and management.
 * Decision support: There is no existing framework for data-driven decision support and decisions are usually based on staff oversight.
 
-## The Solution
+## Provided Solution
 * Spreadsheets for data entry and collection: With the goal of later expanding to a dedicated system, spreadsheets are utilized in this project to collect data. They were chosen for their familiar interface to non-technical staff. This ensures availability, greater storage space and cost-saving on stationary.
 * Data analysis and visualizations: The BI dashboards allow for data analysis and visualization to provide insights on various sectors such as packages.
 * Automated reporting: The interactive dashboards allow for reports to be available at all times, provided the data is updated.
 * Decision support: Using the visuals available on the report, the management is able to make data-informed decisions.
-
-  

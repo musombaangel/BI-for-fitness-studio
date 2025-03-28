@@ -38,9 +38,11 @@ This data was integrated with existing data and formed the packages and income v
 1.	Total Active Members – Number of paying members within that month.
 2.	Member Retention Rate – Percentage of members who remain through the year.
 3.	Churn Rate – Percentage of members who leave during the year
+
 **Attendance & Engagement**
 1.	Average Daily Attendance – Number of check-ins per day.
 2.	Peak & Off-Peak Hours – Most and least busy times of the week.
+
 **Financial Performance**
 1.	Monthly Revenue – Total earnings per month.
 2.	Monthly expenses – Total money spent on expenses like electricity, rent, maintenance etc.

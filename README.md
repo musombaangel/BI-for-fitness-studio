@@ -96,9 +96,9 @@ Package details are as follows.
 - **Electricity Monitoring Challenges** – Gathering reliable electricity usage data was difficult due to lack of existing tracking systems.
 
 ## **Future Recommendations**
-•	Implement data collection enhancements to capture key missing metrics.  
-•	Develop and deploy an automated financial tracking system.  
-•	Initiate predictive analytics and automated reporting.  
+- Implement data collection enhancements to capture key missing metrics.
+- Develop and deploy an automated financial tracking system.
+- Initiate predictive analytics and automated reporting.  
 
 ## **Conclusion**
 Implementing a BI solution for the fitness centre provided actionable insights that enhanced operational efficiency, improved revenue tracking, and optimized resource allocation. The dashboard empowers management with real-time analytics, positioning the gym for sustainable growth.

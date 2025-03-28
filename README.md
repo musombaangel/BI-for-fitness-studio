@@ -33,6 +33,18 @@ Data was scarce and incomplete, therefore some was simulated to demonstrate to t
 - Package membership<br>
 This data was integrated with existing data and formed the packages and income vs expenses dashboards.
 
+## **Key Performance Indicators**
+**Membership & Customer Retention**
+1.	Total Active Members – Number of paying members within that month.
+2.	Member Retention Rate – Percentage of members who remain through the year.
+3.	Churn Rate – Percentage of members who leave during the year
+**Attendance & Engagement**
+1.	Average Daily Attendance – Number of check-ins per day.
+2.	Peak & Off-Peak Hours – Most and least busy times of the week.
+**Financial Performance**
+1.	Monthly Revenue – Total earnings per month.
+2.	Monthly expenses – Total money spent on expenses like electricity, rent, maintenance etc.
+
 ## **Chosen BI Tools & Technologies**
 - **Power BI** – Used for data visualization, interactive dashboards, and trend analysis.
 - **Excel** – For initial data cleaning, transformation, and preliminary analytics. Chosen because it is familiar to staff.
@@ -80,6 +92,11 @@ Package details are as follows.
 - **Resistance to Change** – Some employees were hesitant to shift from traditional record-keeping methods.
 - **Integration Difficulties** – Aligning existing business processes with new data-driven approaches took time.
 - **Electricity Monitoring Challenges** – Gathering reliable electricity usage data was difficult due to lack of existing tracking systems.
+
+## **Future Recommendations**
+•	Implement data collection enhancements to capture key missing metrics.  
+•	Develop and deploy an automated financial tracking system.  
+•	Initiate predictive analytics and automated reporting.  
 
 ## **Conclusion**
 Implementing a BI solution for the fitness centre provided actionable insights that enhanced operational efficiency, improved revenue tracking, and optimized resource allocation. The dashboard empowers management with real-time analytics, positioning the gym for sustainable growth.
